@@ -8,4 +8,4 @@
     * *704. Binary Search*
     * *981. Time Based Key-Value Store*
 
-
+* **33. Search in Rotated Sorted Array**
