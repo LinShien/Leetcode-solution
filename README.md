@@ -9,3 +9,6 @@
     * *981. Time Based Key-Value Store*
 
 * **33. Search in Rotated Sorted Array**
+    * *81. Search in Rotated Sorted Array II*
+    * *852. Peak Index in a Mountain Array*
+    * *74. Search a 2D Matrix*
